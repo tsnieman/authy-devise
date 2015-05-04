@@ -35,6 +35,7 @@ Add `Devise Authy` to your App:
 
     rails g devise_authy:install
 
+    # Views generated in ERB by default.
     --haml: Generate the views in Haml
     --sass: Generate the stylesheets in Sass
 
